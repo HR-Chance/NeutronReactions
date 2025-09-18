@@ -1,4 +1,4 @@
-Radioactive Activity Calculator
+# Radioactive Activity Calculator
 
 This repository contains Python scripts for calculating the percentage of atoms transmuted and the resulting radioactive activity (in becquerels) for a given element or alloy under neutron irradiation. The calculations use nuclear data from ENDF files and half-life data from the IAEA LiveChart API. The project was developed as part of the LLM Hackathon.
 
